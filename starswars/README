@@ -1,0 +1,9 @@
+- pertama 'npm install -g create-react-app'
+- kedua buat filenya 'create-react-app starwars'
+- ketiga cd starwars dan npm start
+- saya membuat file components yang berisi Header, sidebar, Content dan Footer
+- Kumudian, file di import di App.js sebagai halam utama
+- kemudian saya instal axios dan react router 'sudo npm i axios' dan 'sudo npm i react-router-dom'
+- setelah itu saya membuat fungsi untuk meng get API dengan axios yang sesuai dengan requirment
+= setelah itu saya membuah file SPA dengan react router, saya buat '<Link className="list-group-item" to='/Movies'>Movies</Link>'
+- kemudian saya tampilkan react routernya di file App.js '<Route path = '/Movies' component = {Movies} />'
